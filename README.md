@@ -1,7 +1,7 @@
 Clallenge
 =========
 
-Looks like someone is running a forward-facing apachee server:
+Looks like someone is running a forward-facing apache server:
 > 52.33.103.172
 
 * Easy : Write a web scraper to find the dark company secrets
